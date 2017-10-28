@@ -1,27 +1,29 @@
-# Workshops para Local Hack Day UG 2017
+# Local Hack Day 2017 @ Universidad de Guanajuato
 
-## Diseño
+## Workshops para Local Hack Day UG 2017
+
+### Diseño
 
 * Wireframing (12 pm) - Rodolfo Ferro
 * Mockups (6 pm) - Miguel Cuevas
 
-## Económico
+### Económico
 
 * Canvas (11 am) - Miguel Cuevas
 * Pitch (4 pm) - Ricardo Mirón
 
-## Técnico
+### Técnico
 
 * Intro a Git (13 pm) - Rodolfo Ferro
 * GitHub Pages (5 pm) - Ricardo Mirón
 
 
-# Mentorías
+## Mentorías
 
 A lo largo del evento, por equipo.
 
 
-# Programa
+## Programa
 
 1.  9:00 am. Asiste y Prepárate
 2. 10:00 am. Presentación de ideas y conformación de equipos
