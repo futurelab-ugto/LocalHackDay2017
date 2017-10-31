@@ -29,10 +29,10 @@ Tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat? Na
 
 ### Económico 💰
 
-#### Canvas (16:00 hrs.) - Miguel Cuevas
+#### Canvas (16:00 hrs.) - Kaizen
 Sequitur mutationem consuetudium lectorum mirum est notare quam littera gothica quam? Tation ullamcorper suscipit lobortis nisl ut aliquip ex! Hendrerit in vulputate velit esse, molestie consequat vel illum dolore eu feugiat.
 
-#### Pitch (19:00 hrs.) - Ricardo Mirón
+#### Pitch (19:00 hrs.) - Kaizen
 Dolor in hendrerit in vulputate velit esse molestie, consequat vel illum dolore eu feugiat nulla. Legentis in iis qui facit eorum claritatem Investigationes demonstraverunt lectores legere me lius quod! Et quinta decima eodem modo typi qui nunc nobis videntur, parum clari fiant sollemnes in. Nulla facilisi nam liber tempor cum soluta nobis eleifend; option congue nihil imperdiet doming id. Littera gothica quam nunc, putamus parum claram anteposuerit.
 
 ### Técnico 💻
