@@ -46,3 +46,7 @@ Blandit praesent luptatum zzril delenit augue duis dolore. Habent claritatem ins
 ## Mentorías 👩‍🏫
 
 Las mentorías se realizarán a lo largo del evento, por equipo. Contaremos con mentores que tienen diversas áreas de expertise, desde cómo puedes aterrizar tu idea hasta cómo armar una Amazon Alexa Skill.
+
+## Espacio
+
+![Espacio para Local Hack Day](https://github.com/futurelab-ugto/LocalHackDay2017/blob/master/real_space_ph1.png)
