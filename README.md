@@ -1,20 +1,20 @@
 # Local Hack Day 2017 @ Universidad de Guanajuato :octocat:
 
 ## Programa 📅
-| Hora      | Actividad |
-| --------- | --------- |
-| 9:00 hrs.  | Asiste y Prepárate |
-| 10:00 hrs. | Presentación de ideas y conformación de equipos |
-| 10:30 hrs. | Kick-off! 🚀 |
-| 12:00 hrs. | Taller: Wireframing |
-| 13:00 hrs. | Taller: Intro a Git |
-| 14:00 hrs. | Comida 🍕|
-| 16:00 hrs. | Taller: Canvas |
-| 17:00 hrs. | Taller: Mockups |
-| 18:00 hrs. | Taller: GitHub Pages |
-| 19:00 hrs. | Taller: Pitch |
-| 20:00 hrs. | Pitch de proyectos |
-| 21:00 hrs. | ¡Cierre y despedida! 👋🏼|
+| Hora     | Actividad                    |
+| -------- | ---------------------------- |
+| 09:00 am | Asiste & Prepárate           |
+| 09:30 am | Prepara Tus Proyectos        |
+| 10:00 am | Kick-off! 🚀                 |
+| 11:00 am | Taller: Wireframing          |
+| 12:00 pm | Taller: Intro A Git + GitHub |
+| 01:00 pm | Taller: Canvas               |
+| 02:00 pm | ¡A Comer! 🍕                 |
+| 04:00 pm | Taller: Mockups              |
+| 05:00 pm | Taller: GitHub Pages         |
+| 06:30 pm | Taller: Rocket Pitch         |
+| 07:30 pm | Presentación De Proyectos    |
+| 08:45 pm | ¡Cierre y despedida! 👋🏼      |
 
 
 ## Descripción de talleres 📋
